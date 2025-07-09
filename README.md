@@ -1,4 +1,4 @@
-# Discord Bot Maker – Mody i Rawdaty
+# Discord Bot Maker v13 – Mody i Rawdaty
 
 Tutaj znajdziesz mody oraz rawdaty do Discord Bot Maker v13
 
