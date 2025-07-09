@@ -9,7 +9,7 @@ module.exports = {
   meta: {
     version: "2.1.7",
     preciseCheck: false,
-    author: "Lisek + ChatGPT",
+    author: "Liseczkowy",
     authorUrl: null,
     downloadUrl: null,
   },
